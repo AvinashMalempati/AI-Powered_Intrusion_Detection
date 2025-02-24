@@ -1,0 +1,2 @@
+Total Fwd Packets,Total Backward Packets,Fwd Packets Length Total,Bwd Packets Length Total,Fwd IAT Tot,Bwd IAT Tot,Fwd Pkt Len Max,Fwd Pkt Len Min,Fwd Pkt Len Mean,Fwd Pkt Len Std,Bwd Pkt Len Max,Bwd Pkt Len Min,Bwd Pkt Len Mean,Bwd Pkt Len Std,Flow Bytes/s,Flow Packets/s,Pkt Size Avg
+0,38,0,9577,0,6.322279,0,0,0,0,1414,66,252.02631578947367,392.5287035014716,1514.801861796988,6.0104908372439745,252.02631578947367
